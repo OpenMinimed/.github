@@ -1,3 +1,1 @@
-# OpenMinimed
-
-You can join or Discord [here](https://discord.gg/tb4egy8VYh).
+This is a placeholder repository for the Github profile description.
